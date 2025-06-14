@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "loopin-app-2",
-    "slug": "loopin-app-2",
+    "name": "loopin-app",
+    "slug": "loopin-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
